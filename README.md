@@ -1,2 +1,2 @@
 # Warehouse
-for store some pic I need
+for storing some pic I need
