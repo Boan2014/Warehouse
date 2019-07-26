@@ -1,2 +1,2 @@
 # Warehouse
-for storing some pic I need
+Repository for storing  pics I need
