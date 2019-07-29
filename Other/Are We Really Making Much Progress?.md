@@ -1,6 +1,6 @@
 # Are We Really Making Much Progress? - A Worrying Analysis of Recent Neural Recommendation Approaches(RecSys'19) 
 
-##[論文](https://arxiv.org/abs/1907.06902)
+## [論文](https://arxiv.org/abs/1907.06902)
 
 ## Author
 + Maurizio Ferrari Dacrema. Politecnico di Milano, Italy
@@ -21,7 +21,7 @@
 >1. Reproducibility : To what extent is recent research in the area reproducible (with reasonable effort)?
 
 >2. Progress : To what extent are recent algorithms actually leading to better performance results when compared to relatively simple, but well-tuned, baseline methods?
-```
+
 ## Approach
 
 ###　論文集め
