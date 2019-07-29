@@ -58,11 +58,16 @@ reconstructed based on the information in the paper.
 + #### TopPopular
 + #### ItemKNN
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/ItemKNN.png" width=auto height=auto >
+
 + #### UserKNN
+
 + #### ItemKNN-CBF
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/ItemKNN-CBF.png" width=auto height=auto >
+
 + #### ItemKNN-CFCBF
+
 + #### P3α
+
 + #### RP3α
 
 >For all baseline algorithms and datasets, we determined the optimal parameters via Bayesian search using the implementa- tion of Scikit-Optimize6. We explored 35 cases for each algorithm, where the first 5 were used for the initial random points. We con- sidered neighborhood sizes k from 5 to 800; the shrink term h was between 0 and 1000; and α and β took real values between 0 and 2.
@@ -70,17 +75,23 @@ reconstructed based on the information in the paper.
 ### 結果
 + #### Collaborative Memory Networks (CMN)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/CMN.png" width=auto height=auto >
+
 + #### Metapath based Context for RECommendation (MCRec)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/MCRec.png" width=auto height=auto >
+
 + #### Collaborative Variational Autoencoder (CVAE)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/CVAE.png" width=auto height=auto >
+
 + #### Collaborative Deep Learning (CDL)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/CDL.png" width=auto height=auto >
+
 + #### Neural Collaborative Filtering (NCF)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/NCF.png" width=auto height=auto >
+
 + #### Spectral Collaborative Filtering (SpectralCF)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/SpectralCF_1.png" width=auto height=auto >
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/SpectralCF_2.png" width=auto height=auto >
+
 + #### Variational Autoencoders for Collaborative Filtering (Mult-VAE)
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/Mult-VAE_1.png" width=auto height=auto >
 <img src="https://raw.githubusercontent.com/Boan2014/Warehouse/master/Other/Mult-VAE_2.png" width=auto height=auto >
